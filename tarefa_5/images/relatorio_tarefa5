@@ -1,0 +1,7 @@
+exercicio 1 para usarmos a ferramenta em dados que já conhecemos perfeitamente, de formas a validar o uso da técnica de modelagem propsta. Por isso definimos a funçao previamente.
+
+representação de um sistema de primeira utilizando um modelo recursivo do sistema.
+usando exemplo 8.5.1 para determinar os parâmetros resultantes do MMQ e a relação deles com os parâmetros do sistema de primeria ordem, \tau e K.
+
+tirei o atraso para estimar \hat{\tau} e \hat{K} PORQUE a funçao de MQ resulta em uma reta, dado um sistema de primeira ordem. Se o atraso for considerado, a reta sofrerá uma rotação que não condiz com o transitório do sistema, e sim com o atraso puro de tempo (que é do processo, mas não define os parâmetros de ganho e constante de tempo).
+
